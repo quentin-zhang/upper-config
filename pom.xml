@@ -13,6 +13,10 @@
     <artifactId>upper-config</artifactId>
     <version>1.0.0</version>
 
+    <modules>
+        <module>config-server</module>
+    </modules>
+
     <repositories>
         <repository>
             <id>central</id>
